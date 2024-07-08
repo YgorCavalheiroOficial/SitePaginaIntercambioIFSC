@@ -1,3 +1,3 @@
-﻿# Site Pagina de Intercâmbio IFSC
+﻿# Site pagina de Intercâmbio IFSC
 
  Link do site: https://ygorcavalheirooficial.github.io/SitePaginaIntercambioIFSC/
